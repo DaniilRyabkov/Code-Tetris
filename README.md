@@ -4,5 +4,7 @@
 
 ![6612f14cb0e7dac256552b06_тетрис](https://github.com/user-attachments/assets/c3ec51b6-3cf7-4264-80ee-66d387198a90)
 
+## this is what kind of Tetris we have:
+![Desktop Screenshot 2025 04 02 - 20 55 39 41](https://github.com/user-attachments/assets/ba361e8d-702c-45d9-b9b7-c93415c4e192)
 
-[Tetris-site](https://www.example.com)
+[Tetris-site](https://daniilryabkov.github.io/Code-Tetris/)
